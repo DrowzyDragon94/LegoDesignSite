@@ -1,0 +1,22 @@
+h1 {
+    font-family: fantasy;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0b0ea3;
+}
+nav li{
+    color: white;
+    display: block;
+    float: left;
+    padding: 16px;
+    font-family: Arial;
+    list-style: none;
+    text-align: center;
+}
+nav li:hover {
+    background-color: #000a42
+}
